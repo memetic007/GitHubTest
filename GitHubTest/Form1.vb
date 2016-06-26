@@ -7,8 +7,9 @@
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        Dim x As Integer
+        Dim y, x As Integer
         x = 777
+        Y = 69
         Application.Exit()
 
     End Sub
