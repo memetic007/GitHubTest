@@ -8,7 +8,7 @@
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         Dim x As Integer
-        x = 4
+        x = 12
         Application.Exit()
 
     End Sub
