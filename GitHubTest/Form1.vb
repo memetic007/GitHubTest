@@ -7,6 +7,8 @@
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        Dim x As Integer
+        x = 2
         Application.Exit()
 
     End Sub
