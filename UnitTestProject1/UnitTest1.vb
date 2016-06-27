@@ -17,7 +17,7 @@ Imports GitHubTest
     <TestMethod()> Public Sub MyStuff_AddTwo_Bad()
 
         Dim z, a As Integer
-        a = 2 + 5
+        a = 2 + 2
 
         z = MyStuff.AddTwo(2, 2)
         Assert.AreNotEqual(z, a)
