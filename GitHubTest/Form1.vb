@@ -9,7 +9,7 @@
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         Dim y, x As Integer
         x = 666
-        y = 999
+        y = 1000
         Application.Exit()
 
     End Sub
