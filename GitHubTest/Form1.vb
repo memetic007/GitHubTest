@@ -8,8 +8,8 @@
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         Dim y, x As Integer
-        x = 555555
-        y = 999999
+        x = 111111
+        y = 888888
         Application.Exit()
 
     End Sub
