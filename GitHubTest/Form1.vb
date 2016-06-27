@@ -10,7 +10,7 @@
         Dim z, y, x As Integer
         x = 666
         y = 1000
-        z =
+        z = 5
         Application.Exit()
 
     End Sub
